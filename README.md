@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovitorgino/)](https://www.linkedin.com/in/joaovitorgino/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ginojoaovitor/)](https://www.instagram.com/ginojoaovitor/)
 
-🙋 My name is João Vitor Gino
+😄 My name is João Vitor Gino
 
 🎓 I'm in gratuation proccess in Analysis and Systems Development
 
