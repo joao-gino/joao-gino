@@ -33,10 +33,10 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-<!--![Yarin GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-gino&show_icons=true&theme=nightowl)-->
+![Yarin GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-gino&show_icons=true&theme=nightowl)
 
 
-[![Joao Gino Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-gino&layout=compact)](https://github.com/joao-gino/github-readme-stats)
+![Joao Gino Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-gino&layout=compact)](https://github.com/joao-gino/github-readme-stats)
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
