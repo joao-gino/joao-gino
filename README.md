@@ -6,7 +6,7 @@
 
 🎓 I'm in gratuation proccess in Analysis and Systems Development
 
-💻 Actually my focus is PHP with Laravel, but I also have some knowledge in Flutter and Javascript.
+💻 Actually my focus is PHP with Laravel, starting in Flutter but I also have some knowledge in Javascript and C#.
 
 😍 I've always been an enthusiast for everything that involves technology
 
