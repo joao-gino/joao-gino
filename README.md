@@ -22,11 +22,11 @@ ________________________________________________________________________________
 
 ![PHP Badge](https://img.shields.io/badge/PHP-6DB33F?style=for-the-badge&logo=PHP&logoColor=white)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Golang Badge](https://img.shields.io/badge/Golang-2596be?style=for-the-badge&logo=go&logoColor=white)
+![Typescript Badge](https://img.shields.io/badge/Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Flutter Badge)](https://img.shields.io/badge/Flutter-3f98b3?style=for-the-badge&logo=Flutter&logoColor=white)
-![BOOTSTRAP Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SQL Badge](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Golang Badge](https://img.shields.io/badge/Golang-2596be?style=for-the-badge&logo=go&logoColor=white)
 <!-- ![ANGULAR Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) -->
 
 
