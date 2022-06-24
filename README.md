@@ -4,7 +4,7 @@
 
 😄 My name is João Vitor Gino
 
-🎓 I'm in gratuation proccess in Analysis and Systems Development
+🎓 I'm graduated in Analysis and Systems Development
 
 💻 Actually my focus is PHP with Laravel, starting in Flutter but I also have some knowledge in Javascript and C#.
 
