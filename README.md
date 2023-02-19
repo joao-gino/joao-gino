@@ -6,7 +6,7 @@
 
 🎓 I'm graduated in Analysis and Systems Development
 
-💻 I developed some systems and services to big companies with any technologies, by: Laravel, Node.js, Golang, ASP.NET and Flutter.
+💻 I developed some systems and services to big companies with any technologies, like Laravel, Node.js, Go, ASP.NET and Flutter.
 
 😍 I've always been an enthusiast for everything that involves technology
 
