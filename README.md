@@ -18,21 +18,52 @@
 
 🖱️ Here you will find some of my projects! ✨ Enjoy ✨
 
+I have some projects to show my knowledge about programming languages, architectural designs, clean code, devops world and some other topics.
+
+I created a roadmap from basic to advanced, the basic's projects are the applications that I didn't give so much effort and time and the advanced projects are the applications that I needed to give more attention.
+
+My purpose is to develop all the projects, but there are some projects that I didn't realize yet. Every week I work in one of each.
+
+Each project has a few things I need to do, besides developing, I need to draw an acceptable architecture, write the documentation, test and post it here.
+
+# Projects Roadmap
+
+![Golang Badge](https://img.shields.io/badge/Golang-2596be?style=for-the-badge&logo=go&logoColor=white)
+-> TDD
+-> Hexagonal Architecture
+-> SOLID
+-> DDD
+-> REST API
+-> gRPC
+-> Microservice (QR Code Generator)
+
+![Typescript Badge](https://img.shields.io/badge/Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
+-> TDD
+-> Hexagonal Architecture
+-> SOLID
+-> DDD
+-> REST API
+
+![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+-> TDD
+-> Hexagonal Architecture
+-> SOLID
+-> DDD
+-> REST API
+
 _________________________________________________________________________________________________________________________________________________________________________________
 
-![PHP Badge](https://img.shields.io/badge/PHP-6DB33F?style=for-the-badge&logo=PHP&logoColor=white)
-![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Golang Badge](https://img.shields.io/badge/Golang-2596be?style=for-the-badge&logo=go&logoColor=white)
-![Typescript Badge](https://img.shields.io/badge/Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
+There are some technologies that I also know.
+
 ![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Flutter Badge)](https://img.shields.io/badge/Flutter-3f98b3?style=for-the-badge&logo=Flutter&logoColor=white)
 ![SQL Badge](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-<!-- ![ANGULAR Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) -->
+![MongoDB Badge](https://img.shields.io/badge/Mongodb-3FA037?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-![Yarin GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-gino&show_icons=true&theme=nightowl)
+![Joao Gino GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-gino&show_icons=true&theme=nightowl)
 
 
 ![Joao Gino Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-gino&layout=compact)
