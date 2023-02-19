@@ -29,27 +29,47 @@ Each project has a few things I need to do, besides developing, I need to draw a
 # Projects Roadmap
 
 ![Golang Badge](https://img.shields.io/badge/Golang-2596be?style=for-the-badge&logo=go&logoColor=white)
--> TDD
--> Hexagonal Architecture
--> SOLID
--> DDD
--> REST API
--> gRPC
--> Microservice (QR Code Generator)
+
+-> [Advanced] TDD
+
+-> [Advanced] Hexagonal Architecture
+
+-> [Advanced] SOLID
+
+-> [Advanced] DDD
+
+-> [Advanced] REST API
+
+-> [Advanced] gRPC
+
+-> [Advanced] Microservice (QR Code Generator)
+
 
 ![Typescript Badge](https://img.shields.io/badge/Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
--> TDD
--> Hexagonal Architecture
--> SOLID
--> DDD
--> REST API
+
+-> [Advanced] TDD
+
+-> [Advanced] Hexagonal Architecture
+
+-> [Advanced] SOLID
+
+-> [Advanced] DDD
+
+-> [Advanced] REST API
+
 
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
--> TDD
--> Hexagonal Architecture
--> SOLID
--> DDD
--> REST API
+
+-> [Advanced] TDD
+
+-> [Advanced] Hexagonal Architecture
+
+-> [Advanced] SOLID
+
+-> [Advanced] DDD
+
+-> [Basic] REST API
+
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
