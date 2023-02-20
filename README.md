@@ -34,7 +34,7 @@ Each project has a few things I need to do, besides developing, I need to draw a
 
 -> [Advanced] Hexagonal Architecture
 
--> [Advanced] SOLID
+-> [Advanced] [SOLID Principles](https://github.com/joao-gino/go-solid)
 
 -> [Advanced] DDD
 
