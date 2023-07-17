@@ -58,7 +58,7 @@ Each project has a few things I need to do, besides developing, I need to draw a
 -> [Advanced] REST API
 
 
-![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP Badge](https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white)
 
 -> [Advanced] TDD
 
