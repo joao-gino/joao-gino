@@ -80,14 +80,6 @@ There are some technologies that I also know.
 ![SQL Badge](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/Mongodb-3FA037?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-_________________________________________________________________________________________________________________________________________________________________________________
-
-![Joao Gino GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-gino&show_icons=true&theme=nightowl)
-
-
-![Joao Gino Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-gino&layout=compact)
-
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
